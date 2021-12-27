@@ -13,7 +13,7 @@ These metrics will help understand not just the current snapshot situation but a
 - Due to the large number of rides in Urban areas, avg. fare per ride is greatest in rural areas and smallest in urban centers.
 - Since urban centers have nearly 31 times more drivers than rural areas, there is a marked difference in avg. fare acros different areas. Rural centers have an average fare of $55 per driver, which is nearly 4 times that of urban centers.
 
-![PyBer Summary](https://github.com/abhi82git/School_Analysis/blob/84af0f58be3e89684a0b6932d18bc57f10da9778/Resources/Old_District_Summary.png)
+![PyBer Summary](https://github.com/abhi82git/PyBer_Analysis/blob/0c877f4a9ca938bf67032cda53c919c6b15694f4/analysis/PyBer_Summary.png)
 
 
 ### Total Fare by City Type Summary
